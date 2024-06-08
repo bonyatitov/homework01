@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'inter-light';
+    src: url(/src/fonts/Inter-Light.ttf);
+}
+
+@font-face {
+    font-family: 'inter-regular';
+    src: url(/src/fonts/Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'inter-bold';
+    src: url(/src/fonts/Inter-Bold.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
